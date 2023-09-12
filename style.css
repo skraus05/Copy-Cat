@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.top-background {
+    width: 100vw;
+    height: 365px;
+    background-color: rgb(240, 240, 240);
+    margin: 0 auto;
+}
+
+.top-navigation ul {
+    font-size: 13px;
+    display: flex;
+    list-style: none;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 30em;
+    margin-right: 30em;
+}
+
+.second-navigation ul {
+    text-align: center;
+    font-size: 15px;
+    display: flex;
+    list-style: none;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 15em;
+    margin-right: 15em;
+}
+
+.third-navigation ul {
+    font-size: 15px;
+    display: flex;
+    list-style: none;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 15em;
+    margin-right: 17em;
+}
+
+.credit-text {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5em;
+}
+
+.second-credit-text {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.second-credit-text sup {
+    font-size: 12px;
+}
+
+.iphone-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2.9em;
+}
+
+.wonderfull {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+}
+
+.button-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+.button {
+    color: white;
+    background-color: #0071e3;
+    padding-top: 0.75em;
+    padding-bottom: 0.75em;
+    padding-right: 1.35em;
+    padding-left: 1.35em;
+    font-size: 15px;
+    border: 0px;
+    border-radius: 25px;
+}
+
+.learn-more {
+    font-size: 20px;
+}
+
+.iphone-logos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
